@@ -2,8 +2,6 @@ Here's Nawal
 
 Nawal Hassan is a young and multi-talented Entrepreneur who has been helping multiple companies to grow their businesses digitally through her creative ideas & strategies, which has led her to work with multiple agencies from Canada, Dubai, Australia & India, etc.
 
-I provide a bunch of Digital services based on my experience but WordPress Development and SEO Optimization are two of my main areas of expertise. WordPress is the biggest CMS that holds a 35% market share worldwide. Here is a list of WordPress services that I confidently offer to all my clients.
-
 <div align="center">
 <p align="center">Let's connect!</p>
 
@@ -25,6 +23,9 @@ I provide a bunch of Digital services based on my experience but WordPress Devel
 </div>
 
 <br>
+
+I provide a bunch of Digital services based on my experience but WordPress Development and SEO Optimization are two of my main areas of expertise. WordPress is the biggest CMS that holds a 35% market share worldwide. Here is a list of WordPress services that I confidently offer to all my clients.
+
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
