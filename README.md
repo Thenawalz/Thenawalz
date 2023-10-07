@@ -48,7 +48,7 @@ I will design an amazing landing page according to your business from scratch. A
 ⚡ Qualitative Content Management<br>
 ⚡ Website Audit<br>
 ⚡ Technical SEO<br>
-⚡ Finding Quality Backlinks Key Opportunities (OutReaching Strategy, Broken Links Strategy, Guest Blogging, Sky Scrapper, HARO Links)
+⚡ Finding Quality Backlinks Key Opportunities (OutReaching Strategy, Broken Links Strategy, Guest Blogging, Sky Scrapper, HARO Links)<br>
 ⚡ Complete Off-Page Audit<br>
 <br>
 There is still much more !!<br>
