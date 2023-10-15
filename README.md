@@ -21,17 +21,11 @@ Nawal Hassan is a young and multi-talented Entrepreneur who has been helping mul
     <img width="32" height="32" src="https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png" />
 </a>
 </div>
-
 <br>
 
 I provide a bunch of Digital services based on my experience but WordPress Development and SEO Optimization are two of my main areas of expertise. WordPress is the biggest CMS that holds a 35% market share worldwide. Here is a list of WordPress services that I confidently offer to all my clients.
 
-
-https://github.com/Thenawalz/Thenawalz/assets/147032676/ee4eb97d-eaa7-4880-81a9-dfa43bbe21c4
-
-
-
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" /> 
 
 #### 𝟭) 𝗕𝗹𝗼𝗴 𝗪𝗲𝗯𝘀𝗶𝘁𝗲:
 If you want to start a content-oriented website and rank higher with your articles, you can avail yourself of my Blog Website Design services. Your blog is designed by taking Speed, SEO, and other optimization factors into consideration.
