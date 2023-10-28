@@ -20,6 +20,9 @@ Nawal Hassan is a young and multi-talented Entrepreneur who has been helping mul
 <a href="https://www.instagram.com/thenawalz/">
     <img width="32" height="32" src="https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png" />
 </a>
+<a href="https://www.twitter.com/thenawalz/">
+    <img width="32" height="32" src="https://www.twitter.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png" />
+</a>
 </div>
 <br>
 
